@@ -1,9 +1,7 @@
 # Gravity Lab
 > An interactive gravity simulator built with Python
 
-[demo_pygame.webm](https://github.com/user-attachments/assets/13d1c02e-ae66-49e1-8eda-acb4d5d6fc06)
-
-![demo](assets/demo.gif)
+![demo](assets/demo_gravity.gif)
 
 ## About
 
