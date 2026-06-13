@@ -1,11 +1,11 @@
 # Gravity Lab
-> An interactive gravity simulator built with Python
+An interactive gravity simulator built with Python
 
 ![demo](assets/demo_gravity.gif)
 
 ## About
 
-A small educational project created for Stanford's Code in Place program. Users can select a celestial body, choose a luggage mass, and compare how gravity affects its weight on Earth, Mars, and the Moon.
+A small educational project created for **Stanford's Code in Place** program. Users can select a celestial body, choose a luggage mass, and compare how gravity affects its weight on Earth, Mars, and the Moon.
 
 ---
 
